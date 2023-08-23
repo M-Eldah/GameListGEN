@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="title">Welcome to Generator 3000</h1>
+    <h3 id="SecondLine">
+        Continue Below to create your own game data
+    </h3>
+    <div class="inputContainer">
+        <label class="Labels" for="fname">Location</label><br>
+        <input class="TakeInput" type="text" id="fname" name="fname"><br><br><br>      
+    </div>
+    <div class="inputContainer">
+        <label class="Labels" for="lname">Type</label><br>
+        <input class="TakeInput" type="text" id="lname" name="lname"><br><br><br>      
+    </div>
+   <div class="inputContainer">
+        <label class="Labels" for="itme">Item</label>
+        <div style="display: flex; align-items: center;">
+            <input class="TakeInput" type="text" id="itme" name="itme" onkeydown="myFunction(event)"> 
+            <button class="InputButton" onclick="addItems()">Add</button>
+        </div>
+    </div>
+    
+    <ul id="itemDisplay">
+        
+    </ul>
+    <button class="InputButton" onclick="save()">Save</button>
+</body>
+<script src="javascript.js"></script>
+</html>
