@@ -50,7 +50,9 @@ function save(){
         location:document.getElementById('fname').value,
         objects:item
     }
-    const userJSON = JSON.stringify(data);
+    const darray =[]
+    darray.push(data);
+    const userJSON = JSON.stringify(darray);
     const link = document.createElement("a");
     const file = new Blob([userJSON], { type: 'text/plain' });
     link.href = URL.createObjectURL(file);
