@@ -4,14 +4,15 @@ function myFunction(event) {
     let key = event.key;
     if (key == "Enter") 
     { 
-        addItems()
+        addItems(
+)
     }
   }
 function addItems(){
     var v = document.getElementById('itme').value;
     if(contains(v))
     {
-        alert("You already wrote this bud")
+        alert("You already wrote this")
     }
     else
     {
