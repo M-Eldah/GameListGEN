@@ -1,0 +1,40 @@
+.items {
+  height: 85px;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-blend-mode: darken;
+  margin-bottom: 5px;
+  color: rgb(255, 255, 255);
+  font-size: large;
+}
+.items h3 {
+  font-size: large;
+  text-align: left;
+}
+.items {
+  transition: background-color 1s ease-in-out, height 1s ease-in-out, border-bottom-right-radius 1s ease-in-out;
+  width: 100%;
+  border: 0px;
+  justify-content: flex-start;
+  /* Pushes content to the bottom */
+  align-items: flex-end;
+  /* Aligns content to the left */
+  border-bottom-right-radius: 0px;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(0deg, rgb(2, 0, 36) 0%, rgb(9, 9, 121) 35%, rgb(9, 2, 77) 100%);
+}
+
+#GalleryParagraph {
+  color: aliceblue;
+  font-size: large;
+  overflow: hidden;
+}
+
+.activeItem {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 140px;
+  border-bottom-right-radius: 20px;
+}/*# sourceMappingURL=styles.css.map */
