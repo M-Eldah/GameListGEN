@@ -14,7 +14,11 @@
     "gImg": [
       "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
       "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
+      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1214/LorZ4rmDGQbXDAl19v1zDgmc.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/Uz3sLY9I4LxyloeBz1WFnYbz.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/ynelq0C7QIExrSMN6lqdxcUT.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1214/NDQWkMfivV1a8sosQoaC8CUn.jpg?w=1920&thumb=false"
     ],
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
     "gName": "Disco Elysium"
@@ -24,7 +28,10 @@
     "gImg": [
       "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
       "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
+      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202409/2717/a9764b0243f0fbc96c3241758efd130aafcdf595f75f0e00.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202409/2717/ac0e838c3a74ff3e534bfe9abe38e209a7020ceb99698cbc.jpg?w=1920&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202409/2717/3302da3e95e7eefe3697732391b6675690f5aa9db8fe0608.jpg?w=1920&thumb=false"
     ],
     "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
     "gName": "Horizon Zero Dawn"
@@ -34,369 +41,38 @@
     "gImg": [
       "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
       "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
+      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/560cfc1d960830ff98de6015f961cab01ab881985c7bb541.jpg?w=1920&thumb=false",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_44d30da9c3e4622b46f2978e89bda0515856eaf4.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_f8c7fcdeccbfe77e3fad33330a464fed30f781f0.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_2c576a8e563e3338826268f172c9032c84366d16.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_3cc4e8cfcfb8a91d19d96f631f076d252ba2c0c4.1920x1080.jpg?t=1777363040"
     ],
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
     "gName": "Baldur's Gate 3"
   },
   {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
+    "description": "Log back into the .hack//G.U. trilogy and return to “The World,” as Haseo tracks down Tri-Edge in .hack//G.U. Last Recode, now with enhanced graphics, improved gameplay, and brand new modes! This collection includes all 3 original .hack//G.U. titles, Rebirth, Reminisce, and Redemption, all fully restored and remastered. As well as an all new exclusive 4th Volume: .hack//G.U. Reconnection.",
     "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_800/store/software/switch/70010000039876/98e4d1676ceb6fd61a210429a26c7a6ae3627c765e2875adbcc270965b940432",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525480/ss_f758b140714e7ff9faf532096c17a09ef349a70f.1920x1080.jpg?t=1701322437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525480/ss_2a2837c83ff38356e4103f8cd2a8f1f467c37a01.1920x1080.jpg?t=1701322437",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1200/store/software/switch/70010000039876/97eb8b66e120bf50dbf0702afeddce3e7cf72f7f71b3512823d648045717dbcd",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_800/store/software/switch/70010000039876/2e93f177e04e0bd6537768f3621940f34828d91d3de8667c4ea69496e1944b19"
     ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525480/header.jpg?t=1701322437",
+    "gName": ".hack//G.U. Last Recode"
   },
   {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
+    "description": "Mount & Blade II: Bannerlord is the eagerly awaited sequel to the critically acclaimed medieval combat simulator and role-playing game, Mount & Blade: Warband. Create and develop a character that matches your play style as you explore, raid and conquer your way across a vast medieval sandbox where no two playthroughs are the same.",
     "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_569257e92fd31d58a6fe08053de637071b4518d3.1920x1080.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_4c9270723717c633c9ec16fa394dab82a071f41c.1920x1080.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7491c162be633613ff96f34174aff638883de507.1920x1080.jpg?t=1764252300",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_2885840eb2e4a2b4a00acb8a8a40baac41b33cfd.1920x1080.jpg?t=1764252300"
     ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
-  },
-  {
-    "description": "You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/YeYMVwPIs7yg1A3JPlepg5Lf.jpg?w=1920&thumb=false",
-      "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/8nQKkKFX4nqggYFTlXbRguB8.jpg?w=1920&thumb=false"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1213/TMZhAr0V1h3TfOMYmvTqhMbd.png?w=1920&thumb=false",
-    "gName": "Disco Elysium"
-  },
-  {
-    "description": "EARTH IS OURS NO MORE Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines. An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future. Unleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger. ",
-    "gImg": [
-      "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-      "https://www.gamereactor.eu/media/14/horizon_4381473b.jpg",
-      "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/horizon_zero_dawn_remastered.jpg"
-    ],
-    "cover": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
-    "gName": "Horizon Zero Dawn"
-  },
-  {
-    "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil. ",
-    "gImg": [
-      "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-      "https://production-static.mobilesyrup.com/uploads/2023/09/bg3_exploration.jpg",
-      "https://tweakers.net/i/9OwbEL7zw5hdFNJtAoMx2ueW6YI=/1280x/filters:strip_icc():strip_exif()/i/2006018332.jpeg?f=imagegallery"
-    ],
-    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
-    "gName": "Baldur's Gate 3"
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
+    "gName": "Mount & Blade II: Bannerlord"
   }
 ]

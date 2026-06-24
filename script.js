@@ -1,5 +1,4 @@
 function screamthename(tex, element) {
-    console.log(tex);
     items = document.getElementsByClassName('items')
     Array.from(items).forEach(item => { item.classList.remove('activeItem') })
     element.classList.add('activeItem');
@@ -37,7 +36,7 @@ fetch('./data.json')
         }
 
         holder.innerHTML = '';
-
+        data.sort((a, b) => a.gName.localeCompare(b.gName));
         data.forEach((item, index) => {
             const button = document.createElement('button');
             button.type = 'button';
@@ -50,6 +49,7 @@ fetch('./data.json')
             holder.appendChild(button);
 
         });
+        screamthename(data[0], document.getElementsByClassName('items')[0])
 
 
     })
