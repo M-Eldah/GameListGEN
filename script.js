@@ -54,3 +54,10 @@ fetch('./data.json')
 
     })
     .catch(error => console.error(error));
+
+// // Collect all screenshot URLs (full size if available)
+// const screenshots = Array.from(
+//   document.querySelectorAll('img[alt*="Screenshot"]')
+// ).map(img => img.dataset.src || img.src);
+
+// console.log(screenshots);
